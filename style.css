@@ -1,0 +1,58 @@
+body {
+  margin: 0px;
+  font-family: "Nunito", sans-serif;
+}
+
+.list {
+  background-color: #5e81d1;
+  display: flex;
+  height: 80px;
+  font-size: 10px;
+  width: 100%;
+}
+.list a {
+  justify-content: center;
+}
+h1 {
+  padding: 0px;
+  width: 120px;
+}
+.container-complate {
+  display: flex;
+}
+
+.list-buy {
+  background-color: #f87500;
+  display: flex;
+  height: 80px;
+  width: 100vh;
+}
+
+.things-list {
+  background-color: #ff8d27;
+  height: 30vh;
+  width: 47h;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  align-items: center;
+}
+a {
+  padding: 2px;
+}
+
+ul {
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  font-size: 15px;
+}
+.container-final {
+  display: flex;
+  background-color: #ff8d27;
+  margin: 0px;
+  height: 100vh;
+}
