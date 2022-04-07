@@ -31,7 +31,7 @@ h1 {
 .things-list {
   background-color: #ff8d27;
   height: 30vh;
-  width: 47h;
+  width: 48.7vh;
 }
 
 img {
@@ -43,16 +43,18 @@ a {
   padding: 2px;
 }
 
-ul {
+ul,
+a {
   margin: 0px;
   display: flex;
   align-items: center;
   padding: 0px;
   font-size: 15px;
+  padding: 5px;
 }
 .container-final {
   display: flex;
   background-color: #ff8d27;
   margin: 0px;
-  height: 100vh;
+  height: 50vh;
 }
